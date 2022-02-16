@@ -1,0 +1,163 @@
+{
+  "Character": {
+    "ID": "AthenaCharacter:CID_A_091_Athena_Commando_F_DarkElf",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Backpack": {
+    "ID": "",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Glider": {
+    "ID": "AthenaGlider:Glider_ID_001",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "Pickaxe": {
+    "ID": "AthenaPickaxe:Pickaxe_ID_363_LollipopTricksterFemale",
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "SkyDiveContrail": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "Dance": {
+    "ID": [
+      "AthenaDance:EID_IndianDance",
+      "AthenaDance:EID_Floss",
+      "AthenaDance:EID_Downward_8GZUA",
+      "AthenaDance:EID_TakeTheL",
+      "AthenaDance:EID_IceKing",
+      "AthenaDance:EID_SwingDance"
+    ],
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "ItemWrap": {
+    "ID": [
+      "AthenaItemWrap:Wrap_128_FragmentedGlowEclipse",
+      "AthenaItemWrap:Wrap_128_FragmentedGlowEclipse",
+      "AthenaItemWrap:Wrap_128_FragmentedGlowEclipse",
+      "AthenaItemWrap:Wrap_128_FragmentedGlowEclipse",
+      "AthenaItemWrap:Wrap_128_FragmentedGlowEclipse",
+      "AthenaItemWrap:Wrap_128_FragmentedGlowEclipse",
+      "AthenaItemWrap:Wrap_128_FragmentedGlowEclipse"
+    ],
+    "Variants": [
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ],
+      [
+        {
+          "variants": []
+        }
+      ]
+    ]
+  },
+  "MusicPack": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "LoadingScreen": {
+    "ID": null,
+    "Variants": [
+      {
+        "variants": []
+      }
+    ]
+  },
+  "BannerIconTemplate": "InfluencerBanner11",
+  "BannerColorTemplate": "DefaultColor24",
+  "vbucks": 200000,
+  "level": 98,
+  "battlestars": 4357,
+  "alien_style_points": 45353645,
+  "favorites": {}
+}
